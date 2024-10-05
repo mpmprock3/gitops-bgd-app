@@ -1,0 +1,6 @@
+resources:
+  - ../../base  # Reference the base resources
+
+patchesStrategicMerge:
+  - deployment-patch.yaml  # Apply the DC specific patch
+

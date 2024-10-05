@@ -1,0 +1,13 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bgd
+  namespace: bgd
+spec:
+  template:
+    spec:
+      containers:
+      - name: bgd
+        env:
+        - name: COLOR
+          value: "red"  # Override for DR
