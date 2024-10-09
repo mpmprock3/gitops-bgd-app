@@ -1,5 +1,5 @@
 resources:
-  - ../../base  # Reference the base resources
+  - ../../base/app-dir  # Reference the base resources
 
 patchesStrategicMerge:
   - deployment-patch.yaml  # Apply the DR specific patch
