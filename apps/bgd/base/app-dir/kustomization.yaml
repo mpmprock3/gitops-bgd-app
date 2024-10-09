@@ -1,4 +1,2 @@
 resources:
-  - bgd-deployment.yaml
-  - bgd-svc.yaml
-  - bgd-route.yaml
+  - ../app-dir/
