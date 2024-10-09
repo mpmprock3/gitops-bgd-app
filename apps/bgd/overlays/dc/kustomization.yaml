@@ -3,4 +3,4 @@ resources:
 
 patchesStrategicMerge:
   - deployment-patch.yaml  # Apply the DC specific patch
-
+  - route-patch.yaml
