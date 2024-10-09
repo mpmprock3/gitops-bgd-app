@@ -10,4 +10,4 @@ spec:
       - name: bgd
         env:
         - name: COLOR
-          value: "red"  # Override for DR
+          value: "green"  # Override for DR
