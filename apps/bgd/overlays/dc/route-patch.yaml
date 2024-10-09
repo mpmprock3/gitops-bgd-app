@@ -4,4 +4,4 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: bgd-hostname.apps.gnogvt89.eastus.aroapp.io # Specify the new hostname
+  host: bgd-hostname.apps.example.com # Specify the new hostname
